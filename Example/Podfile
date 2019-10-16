@@ -1,0 +1,7 @@
+use_frameworks!
+target 'HKFileManager_Tests' do
+  pod 'HKFileManager', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
