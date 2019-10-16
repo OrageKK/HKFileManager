@@ -1,0 +1,6 @@
+framework module HKFileManager {
+  umbrella header "HKFileManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
